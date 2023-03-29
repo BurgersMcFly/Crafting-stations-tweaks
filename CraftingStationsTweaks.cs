@@ -1,4 +1,4 @@
-﻿// CraftingStationsTweaks, Valheim mod that removes the roof and fire requirements from craftin stations
+﻿// CraftingStationsTweaks, Valheim mod that removes the roof and fire requirements from crafting stations
 // Copyright (C) 2022 BurgersMcFly
 // This program is free software: you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by
